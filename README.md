@@ -1,6 +1,6 @@
 ## Rotate two rows of teasers
 
-The Javascript allows the user to move the last element of a two-row arrangement of teasers to the beginning.
+The Javascript allows the user to move the last element of a two-row arrangement of teasers to the beginning in a clockwise rotation.
 
 ```
 A1 A2 A3
